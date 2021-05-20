@@ -47,3 +47,5 @@ SELECT user_id,token,(token_updated_at-token_created_at) AS token_expires FROM u
 SELECT a.user_id,name,institution_name,entry_type FROM users a
 LEFT JOIN user_balance b ON a.user_id = b.user_id
 GROUP BY institution_name, user_id
+
+Open the files *.py with IDLE Python and running
