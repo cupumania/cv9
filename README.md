@@ -2,7 +2,13 @@
 cv9 test bed
 
 **Q1 ANSWEAR**
-I used https://www.octoparse.com/ 
+I used octoparse dan webautomation for solved this matter.
+
+As for octoparse this is a desktop prgram you must be install
+and for webautomation is a web base program.
+Both are free for limited fiture and must be register.
+
+
 
 Q2 ANSWEAR 
 -----------
